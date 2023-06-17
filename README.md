@@ -1,11 +1,11 @@
 # Canada Recalls App
 
-Link of my website: https://recallsdashboard.pythonanywhere.com/
+Link of my website: [here](https://recallsdashboard.pythonanywhere.com/)
 
 - This is a repository for *deploying* my **Analytics Dashboard for Canada Recalls** on [PythonAnywhere by Anaconda](https://www.pythonanywhere.com/) and [Dash](https://plotly.com/dash/).
 - You can see my data analysis project on Canada Recalls in this [GitHub repo](https://github.com/chanronnie/Capstone-Project).
 
-Please feel free to adjust the size of your window screen if the content looks toooooo BIG (ideal size: 75 %) and to play with the interactive buttons !!!
+Please feel free to adjust the size of your window screen if the content looks toooooo BIG (ideal screen size: 75 %) and to play with the interactive buttons !!!
 
 
 ## Installation
