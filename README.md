@@ -1,13 +1,28 @@
 # Canada Recalls App
 
-Link of my website: [here](https://recallsdashboard.pythonanywhere.com/)
+This repository contains the files for *deploying* the **Analytics Dashboard for Canada Recalls** on [PythonAnywhere by Anaconda](https://www.pythonanywhere.com/) and [Dash](https://plotly.com/dash/).</br> 
+Please feel free to adjust the window size to your convenience if it appears too big.
 
-- This is a repository for *deploying* my **Analytics Dashboard for Canada Recalls** on [PythonAnywhere by Anaconda](https://www.pythonanywhere.com/) and [Dash](https://plotly.com/dash/).
-- You can see my data analysis project on Canada Recalls in this [GitHub repo](https://github.com/chanronnie/Capstone-Project).
-
-Please feel free to adjust the size of your window screen if the content looks toooooo BIG (ideal screen size: 75 %) and to play with the interactive buttons !!!
+📍 App link: [recallsdashboard.pythonanywhere.com](https://recallsdashboard.pythonanywhere.com/)
 
 
+## Table of Contents
+* [Files](#files)
+* [Technologies](#technologies)
+* [Installation](#installation)
+* [Dashboard Preview](#dashboard-preview)
+
+
+## Files
+- View data analysis project on Canada Recalls: :octocat: [GitHub repo](https://github.com/chanronnie/Capstone-Project)
+- View app codes: [app.py](app.py)
+- See figures used in the app: [figures.py](figures.py)
+- Access the datasets: [data](/data)
+
+## Technologies
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+
+  
 ## Installation
 ```
 pip install dash
@@ -17,11 +32,8 @@ pip install dash-mantine-components
 pip install dash-iconify
 ```
 
-## Requirements
-- Python
-- Dash
-- Plotly
 
 
-## Preview of my Dashboard
+
+## Dashboard Preview
 <img width="938" alt="image" src="https://user-images.githubusercontent.com/121308347/232262991-83281190-b309-46f0-ae7f-7585544c740c.png">
