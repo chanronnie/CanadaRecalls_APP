@@ -8,20 +8,20 @@ Please feel free to adjust the window size to your convenience if it appears too
 
 ## Table of Contents
 
-* [Files](#files)
+* [Contents](#contents)
 * [Technologies](#technologies)
 * [Installation](#installation)
 * [Dashboard Preview](#dashboard-preview)
 
 
-## Files
+## Contents
 - View data analysis project on Canada Recalls: :octocat: [GitHub repo](https://github.com/chanronnie/Capstone-Project)
 - View app codes: [app.py](app.py)
 - See figures used in the app: [figures.py](figures.py)
 - Access the datasets: [data](/data)
 
 ## Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Dash](https://img.shields.io/badge/Dash-black?style=for-the-badge)
 
   
 ## Installation
