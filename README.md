@@ -7,6 +7,7 @@ Please feel free to adjust the window size to your convenience if it appears too
 
 
 ## Table of Contents
+
 * [Files](#files)
 * [Technologies](#technologies)
 * [Installation](#installation)
@@ -20,7 +21,7 @@ Please feel free to adjust the window size to your convenience if it appears too
 - Access the datasets: [data](/data)
 
 ## Technologies
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
 
   
 ## Installation
